@@ -1,4 +1,5 @@
 #!/usr/bin/env escript
+%% vim: set tabstop=4 :
 %% -*- erlang -*-
 %%! -sname week_6
 -include_lib("stdlib/include/assert.hrl").
